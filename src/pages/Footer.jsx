@@ -15,7 +15,7 @@ const Footer = () => {
       <div className="bg-silver">
           <Container>
             <div className="py-7 flex justify-center items-center flex-col gap-5">
-                <h1 className="md:text-title text-[40px] font-semibold leading-[55px]">Pellentesque suscipit fringilla libero eu.</h1>
+                <h1 className="md:text-title text-[40px] font-semibold leading-[55px] text-black">Pellentesque suscipit fringilla libero eu.</h1>
                 <div className="">
                     <Button>
                         <span className="">Get a Demo</span>
